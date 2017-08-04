@@ -10,11 +10,11 @@
     "passive": false,
     "interactiveAuth": false,
     "remotePath": "/public_html/",
-    "uploadOnSave": false,
+    "uploadOnSave": true,
     "syncMode": "update",
     "watcher": {
         "files": false,
-        "autoUpload": false,
+        "autoUpload": true,
         "autoDelete": false
     },
     "ignore": [
