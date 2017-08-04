@@ -13,9 +13,9 @@
     "uploadOnSave": true,
     "syncMode": "update",
     "watcher": {
-        "files": true,
+        "files": false,
         "autoUpload": true,
-        "autoDelete": true
+        "autoDelete": false
     },
     "ignore": [
         "**/.vscode/**",
