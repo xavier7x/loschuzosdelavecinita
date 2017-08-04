@@ -9,7 +9,7 @@
     "passphrase": null,
     "passive": false,
     "interactiveAuth": false,
-    "remotePath": "/",
+    "remotePath": "/public_html/",
     "uploadOnSave": false,
     "syncMode": "update",
     "watcher": {
