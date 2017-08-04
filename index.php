@@ -7,7 +7,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<title>Los Chuzos de la vecinita | Inicio :: Laveci</title>
+<title><?php echo "Los Chuzos de la vecinita | Inicio :: Laveci"?></title>
 
 <!-- Meta tag Keywords -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
