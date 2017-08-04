@@ -12,7 +12,7 @@ $datos = $conexion->DBConsulta("
 ");
 foreach($datos as $value=>$key){
     echo '<pre>';
-    echo $value;
+    print_r($key);
     echo '</pre>';
 }
 ?>
