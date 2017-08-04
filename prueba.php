@@ -10,5 +10,9 @@ $datos = $conexion->DBConsulta("
     select * from sys_parametros;
 
 ");
-print_r($datos);
+foreach($datos as $value=>$key){
+    echo '<pre>';
+    echo $value;
+    echo '</pre>';
+}
 ?>
