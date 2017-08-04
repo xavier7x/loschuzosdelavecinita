@@ -1,0 +1,25 @@
+{
+    "host": "files.000webhost.com",
+    "port": 21,
+    "username": "loschuzosdelavecinita",
+    "password": "wxma171737",
+    "protocol": "ftp",
+    "agent": null,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "passive": false,
+    "interactiveAuth": false,
+    "remotePath": "/",
+    "uploadOnSave": false,
+    "syncMode": "update",
+    "watcher": {
+        "files": false,
+        "autoUpload": false,
+        "autoDelete": false
+    },
+    "ignore": [
+        "**/.vscode/**",
+        "**/.git/**",
+        "**/.DS_Store"
+    ]
+}
