@@ -1,7 +1,7 @@
 <?php
 
 require('util/system/conexionMySql.php');
-
+include("util/system/funciones.php");
 
 $conexion = new DBManager();
 $conexion->DBConectar();
